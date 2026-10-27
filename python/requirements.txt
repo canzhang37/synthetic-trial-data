@@ -1,0 +1,4 @@
+ctgan==0.12.1
+torch==2.14.1
+pandas==2.3.3
+numpy==2.5.4
